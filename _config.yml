@@ -6,9 +6,9 @@ color:
   saturation: 0.4590976978652179
   rhythmicContrast: 0.45065680239349604
   brandColors:
-    - '#FFFFFF'
-    - '#94D4D1'
-    - '#5C7385'
-    - '#0086A1'
-    - '#5BB3C4'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: HRD Services
